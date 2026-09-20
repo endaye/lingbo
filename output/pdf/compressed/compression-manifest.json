@@ -1,0 +1,118 @@
+{
+  "compression": {
+    "method": "Rasterized each A4 page to JPEG and rebuilt the PDF",
+    "renderDpi": 144,
+    "jpegQuality": 82,
+    "pageSize": "A4 portrait",
+    "textLayer": false
+  },
+  "sourceDirectory": "output/pdf",
+  "outputDirectory": "output/pdf/compressed",
+  "documentCount": 10,
+  "totalPages": 439,
+  "totalSourceBytes": 304305788,
+  "totalCompressedBytes": 78031842,
+  "totalSavingsPercent": 74.36,
+  "documents": [
+    {
+      "source": "01-LINGBO-Gundrill-Technical-Guide.pdf",
+      "compressed": "01-LINGBO-Gundrill-Technical-Guide.pdf",
+      "pages": 2,
+      "sourceBytes": 1129135,
+      "compressedBytes": 414663,
+      "savingsPercent": 63.28,
+      "sourceSha256": "0611e2ef908c2637e36f2af23fbaadde07bea0d56fd8db540178ba1517129359",
+      "compressedSha256": "99da9cf1fc4d2ffcf7bfcbb6f9a069546ddf30cfe4638ad65ecf26011c106451"
+    },
+    {
+      "source": "02-LINGBO-Grooving-and-Cutting-Off-Tools.pdf",
+      "compressed": "02-LINGBO-Grooving-and-Cutting-Off-Tools.pdf",
+      "pages": 32,
+      "sourceBytes": 12298701,
+      "compressedBytes": 4923181,
+      "savingsPercent": 59.97,
+      "sourceSha256": "032a9c29cabad73b987bd7726e02d78620847eb934af439303f2fab9c7f2451b",
+      "compressedSha256": "b591c43589dc193544a8e05e2d725595050a0a8a8989f86d9a93e11d4aeb7b2e"
+    },
+    {
+      "source": "03-LINGBO-Quick-Drills-Volume-A.pdf",
+      "compressed": "03-LINGBO-Quick-Drills-Volume-A.pdf",
+      "pages": 84,
+      "sourceBytes": 53367718,
+      "compressedBytes": 17301965,
+      "savingsPercent": 67.58,
+      "sourceSha256": "da513ca32f1c2da5fd7f198aeff1a6074cf31c143537a4f8e3ec862c8a5108ac",
+      "compressedSha256": "35d9690c571742d124dabb396b47c1869d8e11c4d6f6cd99a5b5f23aa47202ff"
+    },
+    {
+      "source": "04-LINGBO-Quick-Drills-Volume-B.pdf",
+      "compressed": "04-LINGBO-Quick-Drills-Volume-B.pdf",
+      "pages": 86,
+      "sourceBytes": 64502731,
+      "compressedBytes": 24248505,
+      "savingsPercent": 62.41,
+      "sourceSha256": "a381cd329922194e4c5865cbc366dc46c01182bf80ed59c7dc7191ff874ec8fd",
+      "compressedSha256": "29bb5e1b41c64cc822623d6603715adc390b0c1ce89618e97371c5817c18c381"
+    },
+    {
+      "source": "05-LINGBO-Threading-Tools-Volume-01.pdf",
+      "compressed": "05-LINGBO-Threading-Tools-Volume-01.pdf",
+      "pages": 38,
+      "sourceBytes": 17031258,
+      "compressedBytes": 6062756,
+      "savingsPercent": 64.4,
+      "sourceSha256": "fa6408ef7d3f1e7b8e2ebe7842641ea33856a3f0933aee3441e8208d0bfe24b0",
+      "compressedSha256": "e8227493817f5b68ac6ceabf43c97f4025c586cc7c9a8a5cc61fd33a7fc4cf5a"
+    },
+    {
+      "source": "06-LINGBO-Threading-Tools-Volume-02.pdf",
+      "compressed": "06-LINGBO-Threading-Tools-Volume-02.pdf",
+      "pages": 32,
+      "sourceBytes": 17771433,
+      "compressedBytes": 4073276,
+      "savingsPercent": 77.08,
+      "sourceSha256": "48b350d41d2075e6b93a34c700bd31564536eff3059ed5cdeba99325f1a00552",
+      "compressedSha256": "638b68cea3e832c08e9c9a477a899e4cbdd33f24b2400c702ac15836fce6d9e4"
+    },
+    {
+      "source": "07-LINGBO-Threading-Tools-Volume-03.pdf",
+      "compressed": "07-LINGBO-Threading-Tools-Volume-03.pdf",
+      "pages": 54,
+      "sourceBytes": 66693441,
+      "compressedBytes": 7458200,
+      "savingsPercent": 88.82,
+      "sourceSha256": "f7103d489d90c28ecacd18d9237a82ec36cf12698718065a88355a880a40b573",
+      "compressedSha256": "047b6cb13635e03e907374eaacbb604884d2153f0952921c4d112d176d4fc08e"
+    },
+    {
+      "source": "08-LINGBO-Threading-Tools-Volume-04.pdf",
+      "compressed": "08-LINGBO-Threading-Tools-Volume-04.pdf",
+      "pages": 46,
+      "sourceBytes": 19479695,
+      "compressedBytes": 5546530,
+      "savingsPercent": 71.53,
+      "sourceSha256": "cf68b6a57c2b78aec88529370c7169fafded7ede5aeb4e57909ea1c4fed5d058",
+      "compressedSha256": "8d20b1ba73c00d1b7a2aec2ec83d022057f844f32fa5e356e358395fba856a4b"
+    },
+    {
+      "source": "09-LINGBO-Threading-Tools-Volume-05.pdf",
+      "compressed": "09-LINGBO-Threading-Tools-Volume-05.pdf",
+      "pages": 38,
+      "sourceBytes": 37898671,
+      "compressedBytes": 4374179,
+      "savingsPercent": 88.46,
+      "sourceSha256": "f9f9bedb3455ba0ca7ff17685004d9a4bc2ed1b8873e314992c90cdbcbfb5597",
+      "compressedSha256": "86586fbecc3c42924f2a3da8068a1f69bcc62e6b89e98e4d2f208e5f0f26b817"
+    },
+    {
+      "source": "10-LINGBO-Threading-Tools-Volume-06.pdf",
+      "compressed": "10-LINGBO-Threading-Tools-Volume-06.pdf",
+      "pages": 27,
+      "sourceBytes": 14133005,
+      "compressedBytes": 3628587,
+      "savingsPercent": 74.33,
+      "sourceSha256": "a3c28c4cd54faed2b85384d8aa2579d9290d741fb2e0cd16664151bb08349fc6",
+      "compressedSha256": "3d70268097097c656a82d82f8d4bd9fb3eed6b11c1b66df869facefb4e73a7b0"
+    }
+  ]
+}
